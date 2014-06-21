@@ -62,7 +62,7 @@ The exact steps are described below:
 
 
 Contents
-----------------------------------------
+--------
 
 The project includes the following files:
 
