@@ -29,6 +29,7 @@ values were normalized and bounded within [-1,1].
 
 
 subject
+
     Description: Unique identification of the subject who performed the activity
     Data Type: integer
     Values: 1..30
