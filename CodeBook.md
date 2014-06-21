@@ -3,6 +3,7 @@ represent data collected from the accelerometers from the Samsung Galaxy S
 smartphone. The measurements come from the accelerometer and gyroscope 3-axial
 raw signals. A seperate measurement was recorded for each direction, denoted with
 the letters x, y, z.
+
 The acceleration signal was separated into body and gravity acceleration signals.
 Subsequently, the body linear acceleration and angular velocity were derived
 in time to obtain Jerk signals. Also the magnitude of these three-dimensional
@@ -35,6 +36,7 @@ subject
     Values: 1..30
     
 activity
+
     Description: The name of the activity
     Data Type: factor
     Values: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
